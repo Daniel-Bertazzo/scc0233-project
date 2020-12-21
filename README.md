@@ -8,4 +8,4 @@
 - Daniel Penna Chaves Bertazzo - 10349561
 
 ## Objectives
-The initial idea for this project was inspired by [this Kaggle challenge](https://www.kaggle.com/c/gan-getting-started/overview). The main idea is to build a model that is capable of transforming an image into a Monet style painting.
+The initial idea for this project was inspired by [this Kaggle challenge](https://www.kaggle.com/c/gan-getting-started/overview). The main idea was to build a model that is capable of transforming an image into a Monet style painting.
