@@ -13,7 +13,7 @@
 
 ## Objectives
 
-The initial idea for this project was inspired by [this Kaggle challenge](https://www.kaggle.com/c/gan-getting-started/overview). The main idea was to build a model that is capable of transforming an image into a Monet style painting.
+The initial idea for this project was inspired by [this Kaggle challenge](https://www.kaggle.com/c/gan-getting-started/overview). The main idea was to build a model that is capable of transforming an image into a Monet style painting, and also the reverse operation as well.
 
 ## Achieved Results Examples
 
